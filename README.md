@@ -1,7 +1,7 @@
 ## 하루를 소개합니다!
 
 <div align="center">
-  <img src="src/assets/91448157-8026b880-e8b4-11ea-9273-1c77fe0a09b2 복사 3.jpg" alt="Haru Logo and Slogan" width="1000" />
+  <img src="https://github.com/user-attachments/assets/b423acd5-889a-4391-bd7d-daee3738b693" width="1000" />
 </div>
 
 ## 프로젝트 소개
@@ -89,40 +89,38 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <strong>목표 생성 및 태그 선택 기능</strong><br>
-      <img src="src/assets/목표생성및키워드.gif" alt="목표 생성 및 키워드 검색" width="500" /><br>
-      <em>매일 작은 목표를 설정하고 태그로 분류해보세요!</em>
+      <strong>소셜 로그인/회원가입 기능</strong><br>
+      <img src="https://github.com/user-attachments/assets/282b50ac-9b18-442e-90e7-aaef1c925104)" alt="소설 로그인/회원가입 기능" width="500" /><br>
+      <em>간편한 소셜 로그인으로 시작하세요!</em>
     </td>
     <td align="center" width="50%">
-      <strong>친구 목표 응원 및 해제 기능</strong><br>
-      <img src="src/assets/친구목표에응원하고해제하기.gif" alt="친구 목표 응원 및 해제" width="500" /><br>
-      <em>친구의 목표에 응원하고 함께 성장해요!</em>
+      <strong>회원 정보 수정 기능</strong><br>
+      <img src=https://github.com/user-attachments/assets/fa545ad3-ac99-40b2-8c85-de597570444f" alt="프로필 및 비밀번호 변경" width="500" /><br>
+      <em>프로필과 정보를 자유롭게 수정하세요!</em>
     </td>
   </tr>
   <tr>
+    <td align="center" width="50%">
+      <strong>목표 생성 및 키워드 검색</strong><br>
+      <img src="https://github.com/user-attachments/assets/931e2061-2b52-4ddc-b984-4457e0f8aba2" alt="목표 생성 및 키워드 검색" width="500" /><br>
+      <em>매일 작은 목표를 설정하고 태그로 분류해보세요!</em>
+    </td>
     <td align="center" width="50%">
       <strong>친구 찾기, 요청 기능</strong><br>
       <img src="src/assets/친구찾기요청.gif" alt="친구 찾기 및 요청" width="500" /><br>
       <em>같은 목표를 가진 친구를 찾아보세요!</em>
     </td>
-    <td align="center" width="50%">
-      <strong>소셜 로그인/회원가입 기능</strong><br>
-      <img src="public/google.svg" alt="Google" width="50" style="margin: 0 10px;" />
-      <img src="public/kakao.svg" alt="Kakao" width="50" style="margin: 0 10px;" />
-      <img src="public/naver.svg" alt="Naver" width="50" style="margin: 0 10px;" /><br>
-      <em>간편한 소셜 로그인으로 시작하세요!</em>
-    </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <strong>회원 정보 수정 기능</strong><br>
-      <img src="src/assets/프로필닉네임비밀번호변경.gif" alt="프로필 및 비밀번호 변경" width="500" /><br>
-      <em>프로필과 정보를 자유롭게 수정하세요!</em>
+      <strong>친구 목표 응원 및 해제 기능</strong><br>
+      <img src="src/assets/친구목표에응원하고해제하기.gif" alt="친구 목표 응원 및 해제" width="500" /><br>
+      <em>친구의 목표에 응원하고 함께 성장해요!</em>
     </td>
     <td align="center" width="50%">
       <strong>라이트, 다크모드 전환 기능</strong><br>
       <img src="src/assets/다크모드.gif" alt="라이트, 다크모드 전환" width="500" /><br>
-      <em>라이트, 다크모드 전환 기능</em>
+      <em>편안한 눈의 건강을 위한 테마 전환 기능</em>
     </td>
   </tr>
 </table>
@@ -136,9 +134,20 @@
 
 ### 목표 관리
 - 하루에 하나, 오늘 실천 가능한 목표 작성  
-- 태그 선택(공부·운동·건강 등)으로 목표 분류  
-- 완료 여부 체크 & 자정이 지나면 자동 마감 처리  
-- 완료된 날짜는 캘린더에 표시, 북마크로 내가 원하는 목표만 따로 모아보기  
+- 7개 카테고리로 세분화된 목표 분류 (공부, 운동, 업무, 건강, 취미, 재정, 기타)  
+- 목표 완료 여부 체크 및 자정이 지나면 자동 만료 처리  
+- 목표 수정 및 삭제 기능으로 유연한 관리  
+
+### 북마크 시스템
+- 마음에 드는 목표를 북마크로 저장  
+- 북마크된 목표만 따로 모아서 확인 가능  
+- 개인화된 목표 컬렉션 관리
+
+### 캘린더 시스템
+- 월별 목표 달성 현황을 시각적으로 표시  
+- 완료된 날짜는 파란색 원으로 강조 표시  
+- 목표가 있는 날짜는 작은 점으로 표시  
+- 실시간 데이터 업데이트 및 캐싱으로 성능 최적화  
 
 ### 응원하기
 - 친구 목표에 ‘응원’ 버튼 클릭 시 하트 애니메이션  
@@ -146,16 +155,21 @@
 - 자정이 되면 오늘 받은 하트 수는 초기화  
 
 ### 친구 기능
-- 이메일로 친구 검색 & 요청  
-- 친구 요청 수락/거절, 목록 관리 가능  
-- 친구 프로필과 목표 달성 현황 확인 가능  
+- 이메일로 친구 검색 및 친구 요청 전송  
+- 친구 요청 수락/거절 및 친구 목록 관리  
+- 친구 프로필과 목표 달성 현황 실시간 확인  
+- 친구의 월별 목표 달성 캘린더 조회  
 
 ### 티어 시스템
-- 목표 달성 수에 따라 브론즈 → 실버 → 골드 → 다이아몬드 티어 뱃지 부여  
+- 목표 달성 수에 따라 4단계 티어 뱃지 부여  
+- 브론즈 → 실버 → 골드 → 다이아몬드 순으로 등급 상승  
+- 각 티어별 고유한 메달 디자인과 색상  
 
-### 기타
-- 라이트/다크 모드 전환 지원  
-- 자정 1시간 전, 미완료 목표 알림 발송  
+### 사용자 경험
+- 라이트/다크 모드 전환으로 눈의 건강 보호  
+- 실시간 프로필 정보 자동 업데이트 (3초 간격)  
+- 반응형 디자인으로 모든 디바이스에서 최적화된 경험  
+- 부드러운 애니메이션과 호버 효과로 인터랙션 향상  
 
 ## 문서
 
