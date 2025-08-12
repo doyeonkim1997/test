@@ -1,2 +1,163 @@
-# test
-test
+## 하루를 소개합니다!
+
+<div align="center">
+  <img src="src/assets/91448157-8026b880-e8b4-11ea-9273-1c77fe0a09b2 복사 3.jpg" alt="Haru Logo and Slogan" width="1000" />
+</div>
+
+## 프로젝트 소개
+프로젝트명: Haru
+
+하루는 매일 작지만 실현 가능한 목표를 공유하고 서로 응원하며 성취감을 누릴 수 있는 루틴형 소셜 플랫폼입니다.
+<br>
+사용자는 하루에 단 하나의 목표를 작성하고, 목표를 완료하며 하루하루 성장하는 경험을 기록할 수 있습니다.
+<br>
+‘Haru’라는 이름은 “하루에 단 하나, 오늘 실천 가능한 목표를 정하는 나의 목표 일지”라는 의미를 담고 있습니다.
+<br>
+## 개발기간
+2025.07.16 ~ 2025.08.06
+<br>
+
+## 팀원
+
+<table align="center">
+  <tr>
+    <td align="center">FrontEnd</td>
+    <td align="center">FrontEnd</td>
+    <td align="center">BackEnd</td>
+    <td align="center">BackEnd</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/doyeonkim1997">
+        <img src="https://avatars.githubusercontent.com/u/168827313?v=4" width="150" style="max-width: 100%;">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MA-Ha-eun">
+        <img src="https://avatars.githubusercontent.com/u/209989100?v=4" width="150" style="max-width: 100%;">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/WARDKEY">
+        <img src="https://avatars.githubusercontent.com/u/132131921?s=400&u=8e56d3dcfa54bc4d3a722e484cf815a12e4c8cf4&v=4" width="150" style="max-width: 100%;">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/pshingsl">
+        <img src="https://avatars.githubusercontent.com/u/101494064?v=4" width="150" style="max-width: 100%;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/doyeonkim1997">김도연</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MA-Ha-eun">마하은</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WARDKEY">서근엽</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pshingsl">박상혁</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 기술스택
+
+**ENVIRONMENT**
+
+<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+**FRONTEND** 
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+
+**BACKEND**
+
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+**COMMUNICATION**
+
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Jitsi_Meet-97979A?style=for-the-badge&logo=jitsi&logoColor=white"> <img src="https://img.shields.io/badge/Zoom-2D8C57?style=for-the-badge&logo=zoom&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
+
+## 핵심기능
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>목표 생성 및 태그 선택 기능</strong><br>
+      <img src="src/assets/목표생성및키워드.gif" alt="목표 생성 및 키워드 검색" width="500" /><br>
+      <em>매일 작은 목표를 설정하고 태그로 분류해보세요!</em>
+    </td>
+    <td align="center" width="50%">
+      <strong>친구 목표 응원 및 해제 기능</strong><br>
+      <img src="src/assets/친구목표에응원하고해제하기.gif" alt="친구 목표 응원 및 해제" width="500" /><br>
+      <em>친구의 목표에 응원하고 함께 성장해요!</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>친구 찾기, 요청 기능</strong><br>
+      <img src="src/assets/친구찾기요청.gif" alt="친구 찾기 및 요청" width="500" /><br>
+      <em>같은 목표를 가진 친구를 찾아보세요!</em>
+    </td>
+    <td align="center" width="50%">
+      <strong>소셜 로그인/회원가입 기능</strong><br>
+      <img src="public/google.svg" alt="Google" width="50" style="margin: 0 10px;" />
+      <img src="public/kakao.svg" alt="Kakao" width="50" style="margin: 0 10px;" />
+      <img src="public/naver.svg" alt="Naver" width="50" style="margin: 0 10px;" /><br>
+      <em>간편한 소셜 로그인으로 시작하세요!</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>회원 정보 수정 기능</strong><br>
+      <img src="src/assets/프로필닉네임비밀번호변경.gif" alt="프로필 및 비밀번호 변경" width="500" /><br>
+      <em>프로필과 정보를 자유롭게 수정하세요!</em>
+    </td>
+    <td align="center" width="50%">
+      <strong>라이트, 다크모드 전환 기능</strong><br>
+      <img src="src/assets/다크모드.gif" alt="라이트, 다크모드 전환" width="500" /><br>
+      <em>라이트, 다크모드 전환 기능</em>
+    </td>
+  </tr>
+</table>
+
+## 기능 요약
+
+### 회원가입 & 로그인
+- 이메일, 비밀번호, 닉네임을 입력해 간편하게 가입  
+- 카카오·구글·네이버 등 소셜 계정으로도 가입 가능  
+- 로그인 후 목표 작성, 친구 추가, 응원 등 서비스 전체 이용 가능  
+
+### 목표 관리
+- 하루에 하나, 오늘 실천 가능한 목표 작성  
+- 태그 선택(공부·운동·건강 등)으로 목표 분류  
+- 완료 여부 체크 & 자정이 지나면 자동 마감 처리  
+- 완료된 날짜는 캘린더에 표시, 북마크로 내가 원하는 목표만 따로 모아보기  
+
+### 응원하기
+- 친구 목표에 ‘응원’ 버튼 클릭 시 하트 애니메이션  
+- 오늘 받은 하트 수 & 누적 하트 수 한눈에 확인 가능  
+- 자정이 되면 오늘 받은 하트 수는 초기화  
+
+### 친구 기능
+- 이메일로 친구 검색 & 요청  
+- 친구 요청 수락/거절, 목록 관리 가능  
+- 친구 프로필과 목표 달성 현황 확인 가능  
+
+### 티어 시스템
+- 목표 달성 수에 따라 브론즈 → 실버 → 골드 → 다이아몬드 티어 뱃지 부여  
+
+### 기타
+- 라이트/다크 모드 전환 지원  
+- 자정 1시간 전, 미완료 목표 알림 발송  
+
+## 문서
+
+- [테이블/기능 요구사항 명세서](https://docs.google.com/spreadsheets/d/1FQG9rZiivgDVNJtVkUJnSgrlh_pxpb7-/edit?gid=56756561#gid=56756561)
+- [ERD](https://www.erdcloud.com/d/MzW6NiiL5hdgYD5sB)
