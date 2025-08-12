@@ -106,7 +106,7 @@
       <em>매일 작은 목표를 설정하고 태그로 분류해보세요!</em>
     </td>
     <td align="center" style="width: 100%; padding: 20px;">
-      <strong>친구 찾기, 요청 기능</strong><br>
+      <strong>친구 찾기/요청 기능</strong><br>
       <img src="https://github.com/user-attachments/assets/34a44e22-7c25-4f1f-9716-a280607c81fa" alt="친구 찾기 및 요청" width="370" /><br>
       <em>친구를 찾고 요청을 보내세요!</em>
     </td>
@@ -118,7 +118,7 @@
       <em>친구의 목표에 응원하고 함께 성장해요!</em>
     </td>
     <td align="center" style="width: 100%; padding: 20px;">
-      <strong>라이트, 다크모드 전환 기능</strong><br>
+      <strong>라이트/다크모드 전환 기능</strong><br>
       <img src="https://github.com/user-attachments/assets/dc67836f-d899-4b21-b179-7e3f31bb64e1" alt="라이트, 다크모드 전환" width="370" /><br>
       <em>편안한 눈의 건강을 위한 테마 전환</em>
     </td>
