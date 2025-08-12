@@ -90,36 +90,36 @@
   <tr>
     <td align="center" style="width: 100%; padding: 20px;">
       <strong>소셜 로그인/회원가입 기능</strong><br>
-      <img src="https://github.com/user-attachments/assets/282b50ac-9b18-442e-90e7-aaef1c925104" alt="소셜 로그인/회원가입" width="450" /><br>
+      <img src="https://github.com/user-attachments/assets/282b50ac-9b18-442e-90e7-aaef1c925104" alt="소셜 로그인/회원가입" width="400" /><br>
       <em>간편한 소셜 로그인으로 시작하세요!</em>
     </td>
     <td align="center" style="width: 100%; padding: 20px;">
       <strong>회원 정보 수정 기능</strong><br>
-      <img src="https://github.com/user-attachments/assets/fa545ad3-ac99-40b2-8c85-de597570444f" alt="프로필 및 비밀번호 변경" width="450" /><br>
+      <img src="https://github.com/user-attachments/assets/fa545ad3-ac99-40b2-8c85-de597570444f" alt="프로필 및 비밀번호 변경" width="400" /><br>
       <em>프로필과 정보를 자유롭게 수정하세요!</em>
     </td>
   </tr>
   <tr>
     <td align="center" style="width: 100%; padding: 20px;">
       <strong>목표 생성 및 태그 선택</strong><br>
-      <img src="https://github.com/user-attachments/assets/e0973a28-f611-4fa4-99e5-905fb7a3b508" alt="목표 생성 및 태그 선택" width="450" /><br>
+      <img src="https://github.com/user-attachments/assets/e0973a28-f611-4fa4-99e5-905fb7a3b508" alt="목표 생성 및 태그 선택" width="400" /><br>
       <em>매일 작은 목표를 설정하고 태그로 분류해보세요!</em>
     </td>
     <td align="center" style="width: 100%; padding: 20px;">
       <strong>친구 찾기, 요청 기능</strong><br>
-      <img src="https://github.com/user-attachments/assets/34a44e22-7c25-4f1f-9716-a280607c81fa" alt="친구 찾기 및 요청" width="450" /><br>
+      <img src="https://github.com/user-attachments/assets/34a44e22-7c25-4f1f-9716-a280607c81fa" alt="친구 찾기 및 요청" width="400" /><br>
       <em>친구를 찾고 요청을 보내세요!</em>
     </td>
   </tr>
   <tr>
     <td align="center" style="width: 100%; padding: 20px;">
       <strong>친구 목표 응원 및 해제 기능</strong><br>
-      <img src="https://github.com/user-attachments/assets/e0f7be94-f956-4da8-be05-2f802e3c9405" alt="친구 목표 응원 및 해제" width="450" /><br>
+      <img src="https://github.com/user-attachments/assets/e0f7be94-f956-4da8-be05-2f802e3c9405" alt="친구 목표 응원 및 해제" width="400" /><br>
       <em>친구의 목표에 응원하고 함께 성장해요!</em>
     </td>
     <td align="center" style="width: 100%; padding: 20px;">
       <strong>라이트, 다크모드 전환 기능</strong><br>
-      <img src="https://github.com/user-attachments/assets/dc67836f-d899-4b21-b179-7e3f31bb64e1" alt="라이트, 다크모드 전환" width="450" /><br>
+      <img src="https://github.com/user-attachments/assets/dc67836f-d899-4b21-b179-7e3f31bb64e1" alt="라이트, 다크모드 전환" width="400" /><br>
       <em>편안한 눈의 건강을 위한 테마 전환</em>
     </td>
   </tr>
