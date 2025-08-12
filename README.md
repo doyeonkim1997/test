@@ -83,6 +83,12 @@ Haru는 매일 작지만 실천 가능한 목표를 공유하고 서로 응원�
 
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Jitsi_Meet-97979A?style=for-the-badge&logo=jitsi&logoColor=white"> <img src="https://img.shields.io/badge/Zoom-2D8C57?style=for-the-badge&logo=zoom&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
 
+## 문서
+
+- [테이블/기능 요구사항 명세서](https://docs.google.com/spreadsheets/d/1FQG9rZiivgDVNJtVkUJnSgrlh_pxpb7-/edit?gid=56756561#gid=56756561)
+- [ERD](https://www.erdcloud.com/d/MzW6NiiL5hdgYD5sB)
+- [와이어프레임](https://www.figma.com/design/hjHatyyix8h3YJjql911OX/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C?node-id=0-1&t=RUTCfQPKrXBXNEaz-1)
+
 ## 핵심기능
 
 <table align="center" style="width: 100%; max-width: 1200px;">
@@ -166,8 +172,3 @@ Haru는 매일 작지만 실천 가능한 목표를 공유하고 서로 응원�
 ### 사용자 경험
 - 라이트/다크 모드 전환으로 눈의 건강 보호  
 - 부드러운 애니메이션과 호버 효과로 인터랙션 향상  
-
-## 문서
-
-- [테이블/기능 요구사항 명세서](https://docs.google.com/spreadsheets/d/1FQG9rZiivgDVNJtVkUJnSgrlh_pxpb7-/edit?gid=56756561#gid=56756561)
-- [ERD](https://www.erdcloud.com/d/MzW6NiiL5hdgYD5sB)
