@@ -87,7 +87,7 @@ Haru는 매일 작지만 실천 가능한 목표를 공유하고 서로 응원�
 
 - [테이블/기능 요구사항 명세서](https://docs.google.com/spreadsheets/d/1FQG9rZiivgDVNJtVkUJnSgrlh_pxpb7-/edit?gid=56756561#gid=56756561)
 - [ERD](https://www.erdcloud.com/d/MzW6NiiL5hdgYD5sB)
-- [와이어프레임(Figma)](https://www.figma.com/design/hjHatyyix8h3YJjql911OX/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C?node-id=0-1&t=RUTCfQPKrXBXNEaz-1)
+- [화면설계서(Figma)](https://www.figma.com/design/hjHatyyix8h3YJjql911OX/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C?node-id=1-806&t=F8c6OXua3wgbATqa-1)
 - <details>
   <summary><b>API 명세서</b></summary>
 
